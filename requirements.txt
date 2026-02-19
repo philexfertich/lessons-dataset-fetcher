@@ -1,0 +1,42 @@
+attrs @ file:///home/task_176235597971743/conda-bld/attrs_1762356877432/work
+beautifulsoup4 @ file:///home/task_177029179955355/croot/beautifulsoup4-split_1770291822878/work
+brotlicffi @ file:///home/task_176496124915471/conda-bld/brotlicffi_1764961305283/work
+certifi @ file:///home/task_176765916309757/croot/certifi_1767659186135/work/certifi
+cffi @ file:///home/task_176183212682869/conda-bld/cffi_1761832772612/work
+contourpy @ file:///home/task_176364365480719/conda-bld/contourpy_1763643923715/work
+cycler @ file:///home/task_176606792831380/croot/cycler_1766067950713/work
+fonttools @ file:///work/buildout/croot/fonttools_1768568519884/work
+h11 @ file:///home/task_176193128033921/conda-bld/h11_1761931291684/work
+idna @ file:///work/buildout/croot/idna_1762546508632/work
+kiwisolver @ file:///home/task_176415927081510/conda-bld/kiwisolver_1764159298585/work
+matplotlib==3.10.8
+mkl-service==2.5.2
+mkl_fft @ file:///home/task_176159258493269/conda-bld/mkl_fft_1761592900924/work
+mkl_random @ file:///home/task_176159293775784/conda-bld/mkl_random_1761592951865/work
+numpy @ file:///home/task_177073255161752/croot/numpy_and_numpy_base_1770732579388/work/dist/numpy-2.4.2-cp314-cp314-linux_x86_64.whl#sha256=ff6f3a8b80cd4adfc707dc6fb13ed1423619449c944b0eddc8db6b41119c3905
+outcome @ file:///work/buildout/croot/outcome_1759955665184/work
+packaging @ file:///home/task_176104874909647/conda-bld/packaging_1761049078203/work
+pandas @ file:///home/task_177064301840472/croot/pandas_1770643073504/work
+pillow @ file:///home/task_176943328635994/croot/pillow_1769433308064/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyparsing @ file:///home/task_176397380589210/conda-bld/pyparsing_1763973817532/work
+PyQt6==6.9.1
+PyQt6_sip @ file:///work/buildout/croot/pyqt-split_1759957344790/work/pyqt_sip
+PySocks @ file:///home/task_176175231270627/conda-bld/pysocks_1761753008896/work
+python-dateutil @ file:///work/buildout/croot/python-dateutil_1759952394083/work
+seaborn @ file:///work/buildout/croot/seaborn_1763640441258/work
+selenium @ file:///work/buildout/croot/selenium_1768566869212/work
+setuptools==80.10.2
+sip @ file:///work/buildout/croot/sip_1761939556033/work
+six @ file:///work/buildout/croot/six_1759952127748/work
+sniffio @ file:///home/task_176432907833212/conda-bld/sniffio_1764329152797/work
+sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
+soupsieve @ file:///work/buildout/croot/soupsieve_1761937111573/work
+tornado @ file:///work/buildout/croot/tornado_1768563905938/work
+trio @ file:///home/task_176242205548874/conda-bld/trio_1762422068000/work
+trio-websocket @ file:///home/task_176709311394802/croot/trio-websocket_1767093326237/work
+typing_extensions @ file:///work/buildout/croot/typing_extensions_1759952479399/work
+urllib3 @ file:///home/task_176781021564054/croot/urllib3_1767810264481/work
+websocket-client @ file:///work/buildout/croot/websocket-client_1759953418806/work
+wheel==0.46.3
+wsproto @ file:///work/buildout/croot/wsproto_1765281506173/work

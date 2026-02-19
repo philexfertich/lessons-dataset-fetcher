@@ -101,5 +101,5 @@ driver.quit()
 
 # >>>>> SAVING >>>>>
 df = pd.DataFrame(data=elements)
-df.to_csv('units.csv', index=False)
+df.to_csv('table/units.csv', index=False)
 # <<<<< SAVING <<<<<
